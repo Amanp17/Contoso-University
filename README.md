@@ -2,7 +2,8 @@
 
 The is a Web app for a fictional Contoso University. It includes functionality such as student admission, course creation, and instructor assignments.
 Also this app is deployed on Azure using Azure web app service and Azure SQL Database.
-
+<h4>Here is the Link if you need to reference it:</h4>
+https://contosouniversity20220308155707.azurewebsites.net/
 <h2>All the Landing Pages of the Web App are listed Below:</h2>
 
 ![HomePage](https://user-images.githubusercontent.com/63691859/157228176-35d67439-ef38-488c-b2ad-e68a9ab548f9.png)
@@ -14,5 +15,4 @@ Also this app is deployed on Azure using Azure web app service and Azure SQL Dat
 ![InstructorPage](https://user-images.githubusercontent.com/63691859/157229146-428eb099-9abc-4e26-a548-b67a608ec82c.png)
 ![DepartmentPage](https://user-images.githubusercontent.com/63691859/157229153-4d79a6b4-bc25-47e8-897e-c6a35be7e04f.png)
 
-Here is the Link if you need to reference it:
-https://contosouniversity20220308155707.azurewebsites.net/
+
