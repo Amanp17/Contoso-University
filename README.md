@@ -13,3 +13,6 @@ Also this app is deployed on Azure using Azure web app service and Azure SQL Dat
 ![CoursePage](https://user-images.githubusercontent.com/63691859/157229138-80f1204f-1f02-4d94-8bb0-15fd076ab346.png)
 ![InstructorPage](https://user-images.githubusercontent.com/63691859/157229146-428eb099-9abc-4e26-a548-b67a608ec82c.png)
 ![DepartmentPage](https://user-images.githubusercontent.com/63691859/157229153-4d79a6b4-bc25-47e8-897e-c6a35be7e04f.png)
+
+Here is the Link if you need to reference it:
+https://contosouniversity20220308155707.azurewebsites.net/
